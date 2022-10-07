@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Lanna Gray 2",
+        "username": "Frost 2",
+        "email": "Fros2123@mail.ua 2",
+        "phone": "096-232-23-32 2",
+        "website": "frostmorn.org 2"
+    },
+    {
+        "id": 2,
+        "name": "Akke",
+        "username": "Lacaczet",
+        "email": "Alac@mail.ua",
+        "phone": "096-565-76-32",
+        "website": "arsenal.org"
+    },
+    {
+        "id": 3,
+        "name": "Debby",
+        "username": "Swagger",
+        "email": "pineapple@mail.ua",
+        "phone": "096-244-11-22",
+        "website": "leicester.org"
+    },
+    {
+        "id": 4,
+        "name": "Phill",
+        "username": "Foden",
+        "email": "some@mail.ua",
+        "phone": "099-772-73-72",
+        "website": "mancity.org"
+    },
+    {
+        "id": 5,
+        "name": "Mohamed",
+        "username": "Mo",
+        "email": "salah@mail.ua",
+        "phone": "097-817-77-52",
+        "website": "liverpool.org"
+    }
+]
