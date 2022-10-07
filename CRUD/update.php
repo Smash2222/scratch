@@ -26,8 +26,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         move_uploaded_file($_FILES['picture']['tmp_name'], __DIR__ . "/users/images/$userId.jpg");
     }
-
-//    header('Location: index.php');
 }
 include 'partials/header.php';
 ?>

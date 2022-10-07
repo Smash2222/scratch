@@ -1,0 +1,16 @@
+.selected {
+    color: red;
+    background-color: rgba(114, 231, 138, 0.5);
+    font-size: 18px;
+}
+
+#but {
+    width: 120px;
+    padding: 3px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    text-align: center;
+    color: black;
+    background-color: beige;
+    cursor: pointer;
+}
