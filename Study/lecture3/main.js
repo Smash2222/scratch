@@ -1,3 +1,8 @@
+let reg = /^\d{6}$/;
+let text = '1234567';
+let res = reg.test(text);
+console.log(res);
+
 function stringInversion(str) {
     let wordsArray = str.split(' ');
     wordsArray.reverse();
